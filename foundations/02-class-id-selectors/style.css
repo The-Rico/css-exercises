@@ -1,0 +1,25 @@
+/* style.css */
+
+#single {
+color: rgb(19, 19, 243);
+font-size: 36px;
+}
+
+
+#three {
+    background-color: rgb(112, 226, 112);
+    font-size: 24px;   
+    font-weight: bold;
+}
+
+
+
+.many-text {
+    background-color: rgb(247, 174, 185);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.next {
+    font-size: 24px;
+}
