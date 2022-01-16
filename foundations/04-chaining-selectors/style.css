@@ -1,0 +1,11 @@
+/* style sheet images */
+
+.img.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.img.distorted {
+    height: 400px;
+    width: 200px;
+}
