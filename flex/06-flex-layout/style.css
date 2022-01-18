@@ -101,3 +101,22 @@ a:hover {
   justify-content: center;
   flex-direction: column;
 }
+
+.box1 {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 300px;
+}
+
+.box2 {
+  
+}
+
+.box3 {
+  
+}
+
+.box4 {
+  
+}
